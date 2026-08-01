@@ -39,4 +39,4 @@ Python, pandas, scikit-learn, XGBoost, matplotlib, seaborn, Jupyter.
 
 ## Running it
 
-pip install -r requirements.txt then open Untitled43.ipynb in Jupyter.
+pip install -r requirements.txt then open "Electricity load forecasting.ipynb" in Jupyter.
